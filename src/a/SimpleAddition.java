@@ -9,9 +9,15 @@ public class SimpleAddition {
          System.out.println("Result: " + result2);
     }
 
-    static int add(int a, int b) {
+    private static int divide(int i, int j) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	static int add(int a, int b) {
         return a + b;
     }
+	// new version of class to push to GitHub
 }
 
 
